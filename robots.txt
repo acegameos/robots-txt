@@ -1,6 +1,6 @@
 User-agent: *
-Disallow: /https://sites.google.com/view/acegameos/contact-us/
-Disallow: /https://sites.google.com/view/acegameos/sitemaps/
-Disallow: /https://sites.google.com/view/acegameos/paymen/
+Disallow: /https://www.acegame.cc/contact-us
+Disallow: /https://www.acegame.cc/payment
+Disallow: /https://www.acegame.cc/disclaimer
 
-Sitemap: https://sites.google.com/view/acegameos/sitemaps
+Sitemap: https://www.acegame.cc/sitemaps
