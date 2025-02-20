@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /https://sites.google.com/view/acegameos/contact-us/
+Disallow: /https://sites.google.com/view/acegameos/sitemaps/
+Disallow: /https://sites.google.com/view/acegameos/paymen/
+
+Sitemap: https://sites.google.com/view/acegameos/sitemaps
